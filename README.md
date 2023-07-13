@@ -4,6 +4,7 @@
 
 以下のURLからゲームを遊べます！！
 
+https://youngstar152.github.io/BitSummitGameJam/
 
 このゲームは「猫は粘度の高い液体ではないか」という研究結果をもとに制作しました。
 
